@@ -14,3 +14,4 @@ I'm also an active leader of the Azure Nigeria Community and AWS Cloud Security 
 - [Linkedin](https://www.linkedin.com/in/nwachukwupromise/)
 - [Twitter](https://www.twitter.com/promise_uchey)
 - [Medium](https://promiseuchenwachukwu.medium.com/)
+- [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5005109?fullName=Promise%20Uche%20Nwachukwu)
