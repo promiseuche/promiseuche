@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**promiseuche/promiseuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Promise Uche Nwachukwu and i am a Microsoft Azure Most Valuable Professional (MVP).
+I'm a proficient Senior Azure DevOps Consultant with Over a decade of experience creating innovative solutions for the financial sector and IT industry.
+Interacting with stakeholders, customers, and technical teams to design, implement, and maintain security structures and help businesses create robust and efficient solutions are some of the things I enjoy doing.
+I'm also an active leader of the Azure Nigeria Community and AWS Cloud Security User Group West Africa.
 
-Here are some ideas to get you started:
+# Recent Activities
+- I have currently been building some Azure DevOps pipelines to automate a lot of database processes.
+- I am looking to collaborate more on projects involving Infrastructure and Application developments using Azure DevOps Pipelines, Terraform, kubernetes etc.
+- Feel free to ask me anything on Azure Infrastructure development and we can rub minds together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# You can reach me on the following social media handles:
+- [Linkedin](https://www.linkedin.com/in/nwachukwupromise/)
+- [Twitter](https://www.twitter.com/promise_uchey)
+- [Medium](https://promiseuchenwachukwu.medium.com/)
